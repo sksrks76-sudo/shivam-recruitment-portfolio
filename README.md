@@ -11,4 +11,9 @@ Whether supporting enterprise-level hiring, scaling technology teams, or buildin
 I am always open to connecting with organizations, hiring managers, staffing partners, and talented professionals who are passionate about building the future through great talent.
 
 Let's connect and explore how we can work together to achieve your hiring objectives.
-
+<img src="images/ust.png" alt="UST Global">
+<img src="images/synechron.png" alt="Synechron">
+<img src="images/tavant.png" alt="Tavant">
+<img src="images/altimetrik.png" alt="Altimetrik">
+<img src="images/infosys.png" alt="Infosys">
+<img src="images/tcs.png" alt="TCS">
